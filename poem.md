@@ -33,6 +33,8 @@ From fearful trip the victor ship comes in with object won;
 **_Walt Whitman<br>
 March 9 1887_**<br>
 
+[The Whitman Archive](http://whitmanarchive.org/manuscripts/transcriptions/brn.00001.html)
+
 ![Walt Whitman's hand written poem O Captain! my Captain!](http://whitmanarchive.org/manuscripts/figures/brn.00001.001.jpg)
 
 <dl>
@@ -44,6 +46,4 @@ March 9 1887_**<br>
     <dd>O Captain! my Captain!  |  Whitman Papers, Brown University.</dd>
     <dt>Whitman Archive ID</dt>
     <dd>brn.00001</dd>
-    <dt>Link</dt>
-    <dd>http://whitmanarchive.org/manuscripts/transcriptions/brn.00001.html</dd>
 </dl>
