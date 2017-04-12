@@ -32,6 +32,9 @@ From fearful trip the victor ship comes in with object won;
 ```
 **_Walt Whitman<br>
 March 9 1887_**<br>
+
+![Walt Whitman's hand written poem O Captain! my Captain!](http://whitmanarchive.org/manuscripts/figures/brn.00001.001.jpg)
+
 <dl>
     <dt>Date</dt>
     <dd>This manuscript is dated March 9, 1887.</dd>
