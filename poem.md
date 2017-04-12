@@ -30,8 +30,8 @@ From fearful trip the victor ship comes in with object won;
                Walk the deck my Captain lies,
                     Fallen cold and dead.
 ```
-*_Walt Whitman_*<br>
-*_March 9 1887_*<br>
+**_Walt Whitman<br>
+March 9 1887_**<br>
 <dl>
     <dt>Date</dt>
     <dd>This manuscript is dated March 9, 1887.</dd>
