@@ -1,3 +1,5 @@
+# O Captain! my Captain!
+```
 O Captain! my Captain! our fearful trip is done,
 The ship has weather'd every rack, the prize we sought
         is won,
@@ -27,5 +29,18 @@ From fearful trip the victor ship comes in with object won;
           But I with mournful tread
                Walk the deck my Captain lies,
                     Fallen cold and dead.
--- Walt Whitman
-   http://whitmanarchive.org/manuscripts/transcriptions/brn.00001.html
+```
+*_Walt Whitman_*<br>
+*_March 9 1887_*<br>
+<dl>
+    <dt>Date</dt>
+    <dd>This manuscript is dated March 9, 1887.</dd>
+    <dt>Editorial note</dt>
+    <dd>A signed, dated, handwritten copy of "O Captain! My Captain!," which was published first in 1865. This manuscript was recopied by Whitman, without changes from the version published in 1881, at the request of John Hay, who wrote Whitman in 1887 to request an autograph copy of the poem. A letter dated March 12, 1887 from Hay to Whitman acknowledges receipt of the manuscript and sends a check for thirty dollars in payment. The letter is in the John Hay collection of Brown University's John Hay Library.</dd>
+    <dt>Location</dt>
+    <dd>O Captain! my Captain!  |  Whitman Papers, Brown University.</dd>
+    <dt>Whitman Archive ID</dt>
+    <dd>brn.00001</dd>
+    <dt>Link</dt>
+    <dd>http://whitmanarchive.org/manuscripts/transcriptions/brn.00001.html</dd>
+</dl>
